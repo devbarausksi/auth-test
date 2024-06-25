@@ -8,7 +8,7 @@ export default function HomePage() {
     return (
         <main>
             <h1>{JSON.stringify(profile)}</h1>
-            <h2>On server side</h2>
+            <h2>On client side</h2>
         </main>
     );
 }
